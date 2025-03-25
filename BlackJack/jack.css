@@ -1,0 +1,45 @@
+body{
+    background-image: url('green.jpg');
+    background-size: cover;
+   text-align: center;
+   font-weight: bold; 
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: goldenrod;
+    font-size: 4.3em;
+    /* margin-left: 38%; */
+    margin-top: 5%;
+}
+#message-el {
+    color: white;
+    font-size: 2.3em;
+    font-style: italic;
+    /* margin-left: 37%; */
+}
+p {
+    color: white;
+    font-size: 2.3em;
+    /* margin-left: 37%; */
+}
+
+#startGame {
+    padding: 16px 60px;
+    color: #016f32;
+    font-size: 2em;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    border: solid goldenrod;
+    background: goldenrod;
+}
+#newcard {
+    padding: 16px 71px;
+    color: #016f32;
+    font-size: 2em;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    border: solid goldenrod;
+    background: goldenrod;
+}
